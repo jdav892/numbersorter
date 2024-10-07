@@ -1,0 +1,16 @@
+{
+  "name": "numbersorter",
+  "version": "1.0.0",
+  "description": "A simple display of sorting algorithms in javascript(Bubble Sort, Selection Sort, Insertion Sort, and the .sort() javascript method). The sorted values variable needs to be changed to use any of the other sorting methods outside of .sort() through the ui, all of the sorting methods used are referenced by variable names.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
